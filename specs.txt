@@ -1,0 +1,2 @@
+- Change icon to green - half done
+- Click on icon to show information about yc startup - half done
