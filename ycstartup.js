@@ -1,0 +1,4 @@
+const ycStartups = {
+    airbnb: {},
+    
+}
