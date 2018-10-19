@@ -20,5 +20,5 @@
     "default_title": "Show info",
     "default_popup": "popup.html"
   },
-  "permissions": ["declarativeContent", "storage"]
+  "permissions": ["declarativeContent", "activeTab"]
 }

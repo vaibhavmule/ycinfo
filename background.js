@@ -1,14 +1,19 @@
-chrome.runtime.onInstalled.addListener(function() {
-  chrome.storage.sync.set({color: '#3aa757'}, function() {
-    console.log('The color is green.');
-  });
+
+var rule1 = {
+  conditions: [
+    new chrome.declarativeContent.PageStateMatcher({
+      pageUrl: { hostEquals: 'stripe.com', schemes: ['https'] },
+    }),
+    new chrome.declarativeContent.PageStateMatcher({
+      pageUrl: { hostEquals: 'www.airbnb.co.in', schemes: ['https']}
+  }),
+  ],
+  actions: [ new chrome.declarativeContent.ShowPageAction()]
+};
+
+chrome.runtime.onInstalled.addListener(function(details) {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([{
-      conditions: [new chrome.declarativeContent.PageStateMatcher({
-        pageUrl: {hostEquals: 'www.airbnb.co.in'},
-      })
-      ],
-        actions: [new chrome.declarativeContent.ShowPageAction()]
-    }]);
+    chrome.declarativeContent.onPageChanged.addRules([rule1]);
   });
 });
+
