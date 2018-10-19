@@ -1,19 +1,18 @@
 
-var rule1 = {
+var rules = {
   conditions: [
     new chrome.declarativeContent.PageStateMatcher({
-      pageUrl: { hostEquals: 'stripe.com', schemes: ['https'] },
+      pageUrl: { urlMatches: 'airbnb\..*'}
     }),
     new chrome.declarativeContent.PageStateMatcher({
-      pageUrl: { hostEquals: 'www.airbnb.co.in', schemes: ['https']}
-  }),
+      pageUrl: { urlMatches: 'stripe\..*' },
+    }),
   ],
   actions: [ new chrome.declarativeContent.ShowPageAction()]
 };
 
 chrome.runtime.onInstalled.addListener(function(details) {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([rule1]);
+    chrome.declarativeContent.onPageChanged.addRules([rules]);
   });
 });
-
