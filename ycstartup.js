@@ -7437,7 +7437,8 @@ var ycStartups = {
 		"name": "Airbnb",
 		"url": "http://airbnb.com/",
 		"class": "w2009",
-		"description": "Sharing economy."
+		"description": "Sharing economy.",
+		"rank": "#1"
 	},
 	"cloudkick": {
 		"name": "Cloudkick",

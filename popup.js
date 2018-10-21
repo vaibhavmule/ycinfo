@@ -49,12 +49,21 @@ function parseURL(url){
 document.addEventListener('DOMContentLoaded', function() {
 	getCurrentTab(function(url) {
 		var startup = ycStartups[(parseURL(url)).host];
+		var htmlToAppend = ""
+		Object.keys(startup).forEach(function(key, index){
+			if (key != "name" && key != "url" && key != "class" && key != "description") {
+				var titleCaseKey = key.charAt(0).toUpperCase() + key.substr(1);
+				htmlToAppend += ("<strong>" + titleCaseKey + ":</strong>" + startup[key] + "<br/>" )
+			}
+		})
+
 		document.getElementById('ycinfo').innerHTML += `
 		
 		<h2>${startup.name}</h2>
 		<strong>Description:</strong> ${startup.description}
 		<strong>Class: </strong> ${startup.class}
+		<strong>Website: </strong> <a href=${startup.url}>${startup.name}</a>
 		
-		`
+		` + htmlToAppend
 	})
 })
