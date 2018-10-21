@@ -1,2 +1,5 @@
 movies
 data
+
+# ignore python
+*.py
