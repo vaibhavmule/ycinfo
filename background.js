@@ -10,13 +10,13 @@ ycStartups.forEach(function (key, index) {
   )
 })
 
-var rules = {
-  conditions: conditions,
-  actions: [ new chrome.declarativeContent.ShowPageAction()]
-};
-
 chrome.runtime.onInstalled.addListener(function(details) {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([rules]);
+    chrome.declarativeContent.onPageChanged.addRules([
+      {
+        conditions: conditions,
+        actions: [ new chrome.declarativeContent.ShowPageAction()]
+      }
+    ]);
   });
 });
