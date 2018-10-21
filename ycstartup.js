@@ -7425,7 +7425,8 @@ var ycStartups = {
 		"name": "Stripe",
 		"url": "http://stripe.com/",
 		"class": "s2009",
-		"description": "Online payments."
+		"description": "Online payments.",
+		"rank": "#2",
 	},
 	"wepay": {
 		"name": "WePay",
