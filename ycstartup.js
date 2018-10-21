@@ -1,4 +1,4 @@
-const ycStartups = {
+var ycStartups = {
 	"aalo": {
 		"name": "Aalo",
 		"url": "http://www.aalo.co/",
