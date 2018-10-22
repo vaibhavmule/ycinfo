@@ -23,21 +23,21 @@ function parseURL(url){
 
 	domain_parts = parsed_url.domain.split('.');
 	switch ( domain_parts.length ){
-			case 2:
-				parsed_url.subdomain = null;
-				parsed_url.host = domain_parts[0];
-				parsed_url.tld = domain_parts[1];
-				break;
-			case 3:
-				parsed_url.subdomain = domain_parts[0];
-				parsed_url.host = domain_parts[1];
-				parsed_url.tld = domain_parts[2];
-				break;
-			case 4:
-				parsed_url.subdomain = domain_parts[0];
-				parsed_url.host = domain_parts[1];
-				parsed_url.tld = domain_parts[2] + '.' + domain_parts[3];
-				break;
+		case 2:
+			parsed_url.subdomain = null;
+			parsed_url.host = domain_parts[0];
+			parsed_url.tld = domain_parts[1];
+			break;
+		case 3:
+			parsed_url.subdomain = domain_parts[0];
+			parsed_url.host = domain_parts[1];
+			parsed_url.tld = domain_parts[2];
+			break;
+		case 4:
+			parsed_url.subdomain = domain_parts[0];
+			parsed_url.host = domain_parts[1];
+			parsed_url.tld = domain_parts[2] + '.' + domain_parts[3];
+			break;
 	}
 
 	parsed_url.parent_domain = parsed_url.host + '.' + parsed_url.tld;
@@ -63,6 +63,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		<strong>Class: </strong> ${startup.class} <br/><br/>
 		<strong>Website: </strong> <a href=${startup.url} target="_blank">${startup.name}</a> <br/><br/>
 		
-		` + htmlToAppend
+		` + htmlToAppend +  `
+		<a href="https://github.com/vaibhavmule/ycinfo/issues/new?body=**Site:** ${url}" target="_blank">Report a bug</a><br/><br/>
+		`
 	})
 })
