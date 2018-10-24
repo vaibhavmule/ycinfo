@@ -7426,7 +7426,7 @@
 		"url": "http://stripe.com/",
 		"class": "s2009",
 		"description": "Online payments.",
-		"rank": "#2",
+		"rank": "#2"
 	},
 	"wepay": {
 		"name": "WePay",
