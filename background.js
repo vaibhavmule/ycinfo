@@ -16,7 +16,7 @@ function conditions() {
  
 chrome.runtime.onInstalled.addListener(function(details) {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    conditions().then(function(res) {
+    conditions().then(function(conditions) {
       chrome.declarativeContent.onPageChanged.addRules([
         {
           conditions: res,
