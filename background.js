@@ -19,7 +19,7 @@ chrome.runtime.onInstalled.addListener(function(details) {
     conditions().then(function(conditions) {
       chrome.declarativeContent.onPageChanged.addRules([
         {
-          conditions: res,
+          conditions: conditions,
           actions: [ new chrome.declarativeContent.ShowPageAction()]
         }
       ]);
