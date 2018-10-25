@@ -6,7 +6,6 @@ function conditions() {
     }
     })
     .then(function(ycStartups) {
-    console.log(ycStartups);
     return Object.keys(ycStartups).map(function (key) {
       return new chrome.declarativeContent.PageStateMatcher({
         pageUrl: { urlMatches:  key + '\\..*a' }
