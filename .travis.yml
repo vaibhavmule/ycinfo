@@ -1,0 +1,5 @@
+sudo: false
+
+install: npm install -g jsonlint
+  
+script: jsonlint ycstartup.json --quiet
