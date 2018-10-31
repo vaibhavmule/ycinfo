@@ -6,11 +6,11 @@ function conditions() {
     }
     })
     .then(function(ycStartups) {
-    return Object.keys(ycStartups).map(function (key) {
-      return new chrome.declarativeContent.PageStateMatcher({
-        pageUrl: { urlMatches:  key + '\\..*a' }
-      })
-    });
+      return Object.keys(ycStartups).map(function (key) {
+        return new chrome.declarativeContent.PageStateMatcher({
+          pageUrl: { urlMatches:  key + '\\..*' }
+        })
+      });
     })
 }
  
