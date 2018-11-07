@@ -141,7 +141,7 @@
 		"name": "CSPA",
 		"url": "https://cspa.io/",
 		"class": "s2018",
-		"description": "The Computer Science Proficiency Assessment (CSPA\u2122) is a comprehensive standardized exam for software engineers. We find software engineers to take the test, and then share their assessment results with employers."
+		"description": "The Computer Science Proficiency Assessment (CSPA™) is a comprehensive standardized exam for software engineers. We find software engineers to take the test, and then share their assessment results with employers."
 	},
 	"cytera": {
 		"name": "Cytera CellWorks",
@@ -615,7 +615,11 @@
 		"name": "Atrium",
 		"url": "http://www.atrium.co/",
 		"class": "w2018",
-		"description": "Modern law firm for startups powered by proprietary technology"
+		"description": "Atrium is a full-service corporate law firm that uses technology to give startups a legal experience that is fast, transparent, and price-predictable.",
+		"rank": "#52",
+		"founders": ["Justin Kan"],
+		"jobCreated": "110",
+		"batch": "W2018"
 	},
 	"avrolifesci": {
 		"name": "Avro Life Science",
@@ -759,7 +763,7 @@
 		"name": "Edwin",
 		"url": "https://edwin.ai/",
 		"class": "w2018",
-		"description": "Edwin is an AI-powered English learning service delivered by chatbots, voice assistants, and humans. It prepares students for standardized tests, such as TOEFL and TOEIC. Edwin provides better outcomes in \u2153 the time at \u2153 the cost of existing methods."
+		"description": "Edwin is an AI-powered English learning service delivered by chatbots, voice assistants, and humans. It prepares students for standardized tests, such as TOEFL and TOEIC. Edwin provides better outcomes in ⅓ the time at ⅓ the cost of existing methods."
 	},
 	"envkey": {
 		"name": "EnvKey",
@@ -1107,7 +1111,7 @@
 		"name": "Proven",
 		"url": "https://www.provenskincare.com/",
 		"class": "w2018",
-		"description": "Proven is building personalization to e-commerce with technology. We\u2019re launching in September 2018, fresh out of YCombinator, pre-series A with a killer Exec Team. Our mission is to revolutionize CPG that has fallen asleep at the wheel."
+		"description": "Proven is building personalization to e-commerce with technology. We’re launching in September 2018, fresh out of YCombinator, pre-series A with a killer Exec Team. Our mission is to revolutionize CPG that has fallen asleep at the wheel."
 	},
 	"psylaris": {
 		"name": "Psylaris",
@@ -1233,7 +1237,7 @@
 		"name": "Snackpass",
 		"url": "https://snackpass.co/",
 		"class": "w2018",
-		"description": "Skip the line at restaurants, collect points and send gifts to friends \ud83c\udf81"
+		"description": "Skip the line at restaurants, collect points and send gifts to friends 🎁"
 	},
 	"trysourcify": {
 		"name": "Sourcify",
@@ -1353,7 +1357,7 @@
 		"name": "Universe",
 		"url": "http://onuniverse.com/",
 		"class": "w2018",
-		"description": "Make an awesome website\u001f\u2014from your phone."
+		"description": "Make an awesome website\u001f—from your phone."
 	},
 	"vathys": {
 		"name": "Vathys",
@@ -1455,7 +1459,7 @@
 		"name": "Audm",
 		"url": "https://www.audm.com/",
 		"class": "s2017",
-		"description": "Audm is a subscription service providing mini-audiobooks \u2014 word-for-word narrations \u2014 of longform articles from The New Yorker, The Atlantic, New York Magazine, POLITICO Magazine, WIRED, and many more publications."
+		"description": "Audm is a subscription service providing mini-audiobooks — word-for-word narrations — of longform articles from The New Yorker, The Atlantic, New York Magazine, POLITICO Magazine, WIRED, and many more publications."
 	},
 	"autohub": {
 		"name": "AutoHub",
@@ -1671,7 +1675,7 @@
 		"name": "Gustav",
 		"url": "https://hellogustav.com/",
 		"class": "s2017",
-		"description": "The marketplace for staffing agencies. Companies leverage the network of Gustav\u2019s selected staffing agencies to hire, manage and pay the best talent over one single point of contact with a single requisition."
+		"description": "The marketplace for staffing agencies. Companies leverage the network of Gustav’s selected staffing agencies to hire, manage and pay the best talent over one single point of contact with a single requisition."
 	},
 	"headstartapp": {
 		"name": "Headstart",
@@ -1851,7 +1855,7 @@
 		"name": "Peergrade",
 		"url": "https://www.peergrade.io/",
 		"class": "s2017",
-		"description": "Students grade each other's work to save the teacher\u2019s time and to learn more."
+		"description": "Students grade each other's work to save the teacher’s time and to learn more."
 	},
 	"piggy": {
 		"name": "Piggy",
@@ -1863,7 +1867,7 @@
 		"name": "Pilot",
 		"url": "https://pilot.co/",
 		"class": "s2017",
-		"description": "Pilot lets companies build teams from our pool of vetted engineering and design talent. Our platform handles contracts, invoicing, payments and more. We\u2019re trying to make adding talent to your team as easy as a single click."
+		"description": "Pilot lets companies build teams from our pool of vetted engineering and design talent. Our platform handles contracts, invoicing, payments and more. We’re trying to make adding talent to your team as easy as a single click."
 	},
 	"plasticity": {
 		"name": "Plasticity",
@@ -2097,7 +2101,7 @@
 		"name": "Warren",
 		"url": "http://warrenpay.com/",
 		"class": "s2017",
-		"description": "Warren helps your AP/ AR team automate sending/ receiving payments, find errors, request authorization from supervisors, and streamline your company\u2019s cash flow."
+		"description": "Warren helps your AP/ AR team automate sending/ receiving payments, find errors, request authorization from supervisors, and streamline your company’s cash flow."
 	},
 	"wheelstreet": {
 		"name": "WheelStreet",
@@ -2307,7 +2311,7 @@
 		"name": "Fiix",
 		"url": "http://www.fiix.io/",
 		"class": "w2017",
-		"description": "Fiix sends expert auto mechanics to your home, so you don\u2019t have to waste time & money at the repair shop. It\u2019s essentially an Uber for auto repair."
+		"description": "Fiix sends expert auto mechanics to your home, so you don’t have to waste time & money at the repair shop. It’s essentially an Uber for auto repair."
 	},
 	"floydhub": {
 		"name": "FloydHub",
@@ -2907,7 +2911,11 @@
 		"name": "Hush",
 		"url": "http://www.shophush.com/",
 		"class": "s2016",
-		"description": "Hush is the top social commerce app in the United States."
+		"description": "Hush is building the first community-driven shopping experience on your phone.",
+		"rank": "#64",
+		"founders": ["William King", "Alex Lin", "Cooper Mor"],
+		"jobCreated": "50",
+		"batch": "S2016"
 	},
 	"innov8": {
 		"name": "Innov8",
@@ -2991,7 +2999,11 @@
 		"name": "MessageBird",
 		"url": "http://messagebird.com/",
 		"class": "s2016",
-		"description": "MessageBird is an API for sending Text, Voice & Chat messages. We offer the most advanced messaging API, packed with features and customizable parameters for high-volume and demanding message senders."
+		"description": "MessageBird connects companies to their customers on billions of devices around the world.",
+		"rank": "#45",
+		"founders": ["Robert Vis"],
+		"jobCreated": "200",
+		"batch": "S2016"
 	},
 	"mindori": {
 		"name": "Mindori",
@@ -3081,7 +3093,11 @@
 		"name": "People.ai",
 		"url": "https://people.ai/",
 		"class": "s2016",
-		"description": "The AI platform for data-driven sales and marketing teams"
+		"description": "People.ai builds AI-powered tools that automatically capture all sales activity to drive intelligent sales management and marketing accountability.",
+		"rank": "#89",
+		"founders": ["Oleg Rogynskyy"],
+		"jobCreated": "75",
+		"batch": "S2016"
 	},
 	"polymail": {
 		"name": "Polymail",
@@ -3171,7 +3187,11 @@
 		"name": "Scale",
 		"url": "http://www.scaleapi.com/",
 		"class": "s2016",
-		"description": "Scale is an API for ground truth data for AI."
+		"description": "Scale Labs provides human-powered high quality results for AI applications.",
+		"rank": "#97",
+		"founders": ["Alexandr Wang"],
+		"jobCreated": "35",
+		"batch": "S2016"
 	},
 	"shielddx": {
 		"name": "Shield Diagnostics",
@@ -3231,7 +3251,11 @@
 		"name": "The Athletic",
 		"url": "https://theathletic.com/",
 		"class": "s2016",
-		"description": "Subscription sports media."
+		"description": "Quality local and national sports coverage from an all-star team of writers.",
+		"rank": "#99",
+		"founders": ["Alex Mather", "Adam Hansmann"],
+		"jobCreated": "300",
+		"batch": "S2016"
 	},
 	"flexfits": {
 		"name": "The Flex Company",
@@ -3327,7 +3351,7 @@
 		"name": "AlphaFlow",
 		"url": "http://www.alphaflow.com/",
 		"class": "w2016",
-		"description": "AlphaFlow makes investing in real estate as easy as adding stocks to your portfolio. 100% passive with unparalleled diversification.\n \n\u201cYou make 1 investment. We build you a diversified real estate portfolio. It's that simple.\u201d"
+		"description": "AlphaFlow makes investing in real estate as easy as adding stocks to your portfolio. 100% passive with unparalleled diversification.\n \n“You make 1 investment. We build you a diversified real estate portfolio. It's that simple.”"
 	},
 	"anchorhealth": {
 		"name": "Anchor Health",
@@ -3393,7 +3417,7 @@
 		"name": "Chillabit",
 		"url": "http://justchillabit.com/",
 		"class": "w2016",
-		"description": "Chillabit is the best way to procrastinate! It\u2019s a live feed of funny and relatable student stories that capture student life. From inside jokes to heart-felt stories, it is a place for sharing your thoughts and connecting around shared experiences."
+		"description": "Chillabit is the best way to procrastinate! It’s a live feed of funny and relatable student stories that capture student life. From inside jokes to heart-felt stories, it is a place for sharing your thoughts and connecting around shared experiences."
 	},
 	"gocopia": {
 		"name": "Copia",
@@ -3435,7 +3459,11 @@
 		"name": "Embark Trucks",
 		"url": "http://embarktrucks.com/",
 		"class": "w2016",
-		"description": "Embark is building self-driving trucks"
+		"description": "Embark develops self-driving semi trucks.",
+		"rank": "#73",
+		"founders": ["Alex Rodrigues", "Brandon Moak"],
+		"jobCreated": "40",
+		"batch": "W2016"
 	},
 	"emburse": {
 		"name": "Emburse",
@@ -3483,7 +3511,11 @@
 		"name": "Function of Beauty",
 		"url": "http://www.functionofbeauty.com/",
 		"class": "w2016",
-		"description": "Founded with the mission to revolutionize the beauty industry with customized formulations of shampoo and conditioners tailored to individual hair goals and needs, Function of Beauty celebrates individuality through technology."
+		"description": "Function of Beauty offers personalized hair care based on your hair type & hair goals.",
+		"rank": "#85",
+		"founders": ["Zahir Dossa", "Joshua Maciejewski", "Hien Nguyen"],
+		"jobCreated": "120",
+		"batch": "W2016"
 	},
 	"geckorobotics": {
 		"name": "Gecko Robotics",
@@ -3717,7 +3749,7 @@
 		"name": "Open Motors",
 		"url": "https://www.openmotors.co/",
 		"class": "w2016",
-		"description": "Open Motors (formerly OSVehicle) is a B2B company that is developing EDIT a modular self-driving EV and provides a ready-to-use hardware platform which enables companies to produce complete electric vehicles in half the time and \u2159 the cost."
+		"description": "Open Motors (formerly OSVehicle) is a B2B company that is developing EDIT a modular self-driving EV and provides a ready-to-use hardware platform which enables companies to produce complete electric vehicles in half the time and ⅙ the cost."
 	},
 	"opentrons": {
 		"name": "OpenTrons",
@@ -3777,7 +3809,11 @@
 		"name": "Podium",
 		"url": "https://podium.com/",
 		"class": "w2016",
-		"description": "Collect and manage real-time online reviews and customer feedback"
+		"description": "Podium provides messaging, reviews, and insights for local business.",
+		"rank": "#30",
+		"founders": ["Dennis Steele", "Eric Rea"],
+		"jobCreated": "300",
+		"batch": "W2016"
 	},
 	"meetpoppy": {
 		"name": "Poppy",
@@ -3801,7 +3837,11 @@
 		"name": "Rappi",
 		"url": "http://www.rappi.com/",
 		"class": "w2016",
-		"description": "Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogot\u00e1 and Mexico delivered for under 1 dollar.  Hyper local, Hyper fast."
+		"description": "Rappi is an on-demand delivery startup, active in Colombia, Mexico, Brazil, Chile, Uruguay and Argentina. Valued at over $1 Billion.",
+		"rank": "#15",
+		"founders": ["Felipe Villamarin", "Simon Borrero", "Sebastian Mejia"],
+		"jobCreated": "1,500",
+		"batch": "W2016"
 	},
 	"remicro": {
 		"name": "Reduced Energy Microsystems",
@@ -4005,7 +4045,11 @@
 		"name": "Bitmovin",
 		"url": "http://bitmovin.com/",
 		"class": "s2015",
-		"description": "Video Infrastructure for the Web"
+		"description": "Bitmovin develops software to solve complex problems in video streaming.",
+		"rank": "#68",
+		"founders": ["Stefan Lederer", "Christopher Mueller", "Christian Timmerer"],
+		"jobCreated": "115",
+		"batch": "S2015"
 	},
 	"bizzy": {
 		"name": "Bizzy",
@@ -4119,7 +4163,7 @@
 		"name": "Flirtey",
 		"url": "http://flirtey.com/",
 		"class": "s2015",
-		"description": "Flirtey is the world\u2019s first commercial drone delivery service and was founded with the vision of revolutionising four industries - humanitarian, courier delivery, fast food and online retail."
+		"description": "Flirtey is the world’s first commercial drone delivery service and was founded with the vision of revolutionising four industries - humanitarian, courier delivery, fast food and online retail."
 	},
 	"fontawesome": {
 		"name": "Font Awesome",
@@ -4233,7 +4277,11 @@
 		"name": "Ironclad",
 		"url": "http://ironcladapp.com/",
 		"class": "s2015",
-		"description": "Contract management platform for legal teams."
+		"description": "Ironclad builds modern contract management and workflow automation.",
+		"rank": "#80",
+		"founders": ["Cai GoGwilt", "Jason Boehmig"],
+		"jobCreated": "50",
+		"batch": "S2015"
 	},
 	"jeugene": {
 		"name": "jEugene",
@@ -4275,7 +4323,7 @@
 		"name": "Markhor",
 		"url": "https://markhor.com/",
 		"class": "s2015",
-		"description": "Markhor is a direct to consumer brand that makes and delivers handcrafted shoes in\u200b \u200b3 days at half the price of luxury brands."
+		"description": "Markhor is a direct to consumer brand that makes and delivers handcrafted shoes in​ ​3 days at half the price of luxury brands."
 	},
 	"microhealth": {
 		"name": "MicroHealth",
@@ -4365,13 +4413,17 @@
 		"name": "Scope AR",
 		"url": "http://scopear.com/",
 		"class": "s2015",
-		"description": "Scope AR is the leading provider of User Guided Augmented Reality (AR) Training Solutions.  We transform existing classroom manuals or documents into a simple, and intuitive visual instruction, based on a proven concept of \u201cSee-It, Do-It, Prove-It\u201d."
+		"description": "Scope AR is the leading provider of User Guided Augmented Reality (AR) Training Solutions.  We transform existing classroom manuals or documents into a simple, and intuitive visual instruction, based on a proven concept of “See-It, Do-It, Prove-It”."
 	},
 	"secondmeasure": {
 		"name": "Second Measure",
 		"url": "http://secondmeasure.com/",
 		"class": "s2015",
-		"description": "We help institutional investors leverage consumer spending data."
+		"description": "An analytics platform that lets you see inside companies.",
+		"rank": "#96",
+		"founders": ["Lillian Chou", "Michael Babineau"],
+		"jobCreated": "52",
+		"batch": "S2015"
 	},
 	"sevacoffee": {
 		"name": "Seva Coffee",
@@ -4383,7 +4435,7 @@
 		"name": "ShapeScale",
 		"url": "http://shapescale.com/",
 		"class": "s2015",
-		"description": "ShapeScale is a personal 3D scanner and fitness tracker that digitizes your body in photorealistic 3D. Visualize on your phone where exactly you gain muscle or lose mass. Now on pre-order on shapescale.com! \ud83d\udc4d\n\n#fitness #health #hardware #IoT"
+		"description": "ShapeScale is a personal 3D scanner and fitness tracker that digitizes your body in photorealistic 3D. Visualize on your phone where exactly you gain muscle or lose mass. Now on pre-order on shapescale.com! 👍\n\n#fitness #health #hardware #IoT"
 	},
 	"shredvideo": {
 		"name": "Shred Video",
@@ -4476,10 +4528,10 @@
 		"description": "Scale and outsource your sales calls. \nThe intelligent sales call platform powered by OnDemand professional sales agents that gets your call channel to predictable revenue."
 	},
 	"wheelyscafe": {
-		"name": "Wheelys Caf\u00e9",
+		"name": "Wheelys Café",
 		"url": "http://wheelyscafe.com/",
 		"class": "s2015",
-		"description": "Worlds smallest and friendliest caf\u00e9 franchise. \n\n\"The Bike-Powered Coffee Cart That Could Take On Starbucks\"\n- Fast Company"
+		"description": "Worlds smallest and friendliest café franchise. \n\n\"The Bike-Powered Coffee Cart That Could Take On Starbucks\"\n- Fast Company"
 	},
 	"willing": {
 		"name": "Willing",
@@ -4521,7 +4573,11 @@
 		"name": "Atomwise",
 		"url": "http://atomwise.com/",
 		"class": "w2015",
-		"description": "Artificial intelligence for drug discovery."
+		"description": "Atomwise designs new molecules for the hardest targets. Its discoveries help its partners deliver better medicines faster.",
+		"rank": "#62",
+		"founders": ["Abraham Heifets", "Izhar Wallach"],
+		"jobCreated": "30",
+		"batch": "W2015"
 	},
 	"bagaveev": {
 		"name": "Bagaveev Corporation",
@@ -4623,13 +4679,17 @@
 		"name": "eBrandvalue",
 		"url": "http://ebrandvalue.com/",
 		"class": "w2015",
-		"description": "Real-time Nielsen ratings for Brands.\n\nAccelerate marketing and product through social.\nInform customer interactions, find market opportunites, and spot industry trends faster\u2014from science."
+		"description": "Real-time Nielsen ratings for Brands.\n\nAccelerate marketing and product through social.\nInform customer interactions, find market opportunites, and spot industry trends faster—from science."
 	},
 	"equipmentshare": {
 		"name": "EquipmentShare",
 		"url": "http://equipmentshare.com/",
 		"class": "w2015",
-		"description": "EquipmentShare is a better way to rent equipment. Offering the newest fleet, 24/7 on-demand service and built-in telematics."
+		"description": "EquipmentShare is a peer-to-peer equipment rental marketplace that also offers telematics and equipment utilization services.",
+		"rank": "#31",
+		"founders": ["William Schlacks", "Matthew McDonald", "Jeff Lowe", "Jabbok Schlacks", "Brad Siegler"],
+		"jobCreated": "280",
+		"batch": "W2015"
 	},
 	"getfinal": {
 		"name": "Final",
@@ -4659,7 +4719,7 @@
 		"name": "GiveMeTap",
 		"url": "http://givemetap.com/",
 		"class": "w2015",
-		"description": "We produce & sell stainless steel water bottles that enables people to get free water refills from our partner shops which they can locate via our GiveMeTap App. \n\nFor each bottle sold we\u2019re able to give a person in Africa access to clean water."
+		"description": "We produce & sell stainless steel water bottles that enables people to get free water refills from our partner shops which they can locate via our GiveMeTap App. \n\nFor each bottle sold we’re able to give a person in Africa access to clean water."
 	},
 	"groupahead": {
 		"name": "GroupAhead",
@@ -4809,7 +4869,7 @@
 		"name": "Pachyderm",
 		"url": "http://pachyderm.io/",
 		"class": "w2015",
-		"description": "Pachyderm is \u201cGit for Data Science.\u201d We offer complete version control for data and give your data science team the same first-class development tools as software developers."
+		"description": "Pachyderm is “Git for Data Science.” We offer complete version control for data and give your data science team the same first-class development tools as software developers."
 	},
 	"pakible": {
 		"name": "Pakible",
@@ -4863,7 +4923,11 @@
 		"name": "Qventus",
 		"url": "http://qventus.com/",
 		"class": "w2015",
-		"description": "We help hospitals run efficiently by predicting department resource needs and providing front line staff with real-time resource allocation guidance."
+		"description": "Qventus optimizes decisions in hospitals in real time to reduce costs, improve quality and experience.",
+		"rank": "#75",
+		"founders": ["Ian Christopher", "Brent Newhouse", "Mudit Garg"],
+		"jobCreated": "90",
+		"batch": "W2015"
 	},
 	"raventech": {
 		"name": "Raven Tech",
@@ -4875,7 +4939,11 @@
 		"name": "Razorpay",
 		"url": "https://razorpay.com/",
 		"class": "w2015",
-		"description": "A modern online payment gateway for India"
+		"description": "Razorpay is the only payment gateway for India which allows businesses to accept, process and disburse payments with ease.",
+		"rank": "#74",
+		"founders": ["Harshil Mathur", "Shashank Kumar"],
+		"jobCreated": "250",
+		"batch": "W2015"
 	},
 	"readme": {
 		"name": "ReadMe",
@@ -4887,7 +4955,7 @@
 		"name": "Remix",
 		"url": "https://www.remix.com/",
 		"class": "w2015",
-		"description": "Helping today\u2019s cities design their transportation future"
+		"description": "Helping today’s cities design their transportation future"
 	},
 	"replika": {
 		"name": "Replika",
@@ -4911,7 +4979,7 @@
 		"name": "SIRUM",
 		"url": "http://sirum.org/",
 		"class": "w2015",
-		"description": "SIRUM is a \u201cmatch.com\u201d for unused medicine. We connect institutional surplus medicine with safety-net clinics."
+		"description": "SIRUM is a “match.com” for unused medicine. We connect institutional surplus medicine with safety-net clinics."
 	},
 	"smarking": {
 		"name": "Smarking",
@@ -4947,7 +5015,7 @@
 		"name": "Tab",
 		"url": "https://www.tab.travel/",
 		"class": "w2015",
-		"description": "Booking and payment platform for travellers abroad \u2013\u00a0cheaper and safer for travellers & tourist businesses."
+		"description": "Booking and payment platform for travellers abroad – cheaper and safer for travellers & tourist businesses."
 	},
 	"tara": {
 		"name": "TARA",
@@ -4965,7 +5033,7 @@
 		"name": "Tech in Asia",
 		"url": "http://techinasia.com/",
 		"class": "w2015",
-		"description": "Tech in Asia is a media, events, and jobs platform for Asia\u2019s tech communities."
+		"description": "Tech in Asia is a media, events, and jobs platform for Asia’s tech communities."
 	},
 	"humanutility": {
 		"name": "The Human Utility",
@@ -5127,7 +5195,11 @@
 		"name": "Checkr",
 		"url": "http://www.checkr.com/",
 		"class": "s2014",
-		"description": "Checkr\u2019s mission is to build a fairer future by improving the understanding of the past. We're modernizing how background checks are done."
+		"description": "Checkr provides modern and compliant background checks for global enterprises and startups.",
+		"rank": "#21",
+		"founders": ["Jonathan Perichon", "Daniel Yanisse"],
+		"jobCreated": "240",
+		"batch": "S2014"
 	},
 	"claralabs": {
 		"name": "Clara Labs",
@@ -5175,13 +5247,21 @@
 		"name": "Front",
 		"url": "http://frontapp.com/",
 		"class": "s2014",
-		"description": "Collaborative Inbox for Companies"
+		"description": "Front is the shared inbox for teams -- all your emails, apps, and teammates in one collaborative workspace.",
+		"rank": "#55",
+		"founders": ["Mathilde Collin", "Laurent Perrin"],
+		"jobCreated": "100",
+		"batch": "S2014"
 	},
 	"ginkgobioworks": {
 		"name": "Ginkgo Bioworks",
 		"url": "http://ginkgobioworks.com/",
 		"class": "s2014",
-		"description": "The organism company."
+		"description": "Ginkgo Bioworks is a biotech company that designs custom microbes for customers across multiple markets. Valued at over $1 Billion.",
+		"rank": "#14",
+		"founders": ["Reshma Shetty", "Jason Kelly", "Barry Canton", "Austin Che", "Tom Knight"],
+		"jobCreated": "200",
+		"batch": "S2014"
 	},
 	"greentoe": {
 		"name": "Greentoe",
@@ -5319,7 +5399,11 @@
 		"name": "Rigetti Computing",
 		"url": "http://rigetti.com/",
 		"class": "s2014",
-		"description": "Quantum coherent supercomputing."
+		"description": "Rigetti Computing is building the world’s most powerful computers to help solve humanity’s greatest problems.",
+		"rank": "#28",
+		"founders": ["Chad Rigetti"],
+		"jobCreated": "120",
+		"batch": "S2014"
 	},
 	"roomstorm": {
 		"name": "Roomstorm",
@@ -5337,7 +5421,11 @@
 		"name": "SFOX",
 		"url": "http://sfox.com/",
 		"class": "s2014",
-		"description": "Crypto-currency trading platform."
+		"description": "SFOX is a better way to trade digital currencies, offering the best price and deepest liquidity with a single point of access to global cryptocurrency markets.",
+		"rank": "#66",
+		"founders": ["Akbar Thobhani", "George Melika"],
+		"jobCreated": "25",
+		"batch": "S2014"
 	},
 	"shiftpayments": {
 		"name": "Shift",
@@ -5349,7 +5437,11 @@
 		"name": "ShipBob",
 		"url": "http://shipbob.com/",
 		"class": "s2014",
-		"description": "Providing Amazon level logistics to e-commerce businesses."
+		"description": "ShipBob does e-commerce fulfillment for online stores.",
+		"rank": "#56",
+		"founders": ["Dhruv Saxena", "Divey Gulati"],
+		"jobCreated": "350",
+		"batch": "S2014"
 	},
 	"slicedinvesting": {
 		"name": "Sliced Investing",
@@ -5385,7 +5477,11 @@
 		"name": "uBiome",
 		"url": "http://ubiome.com/",
 		"class": "s2014",
-		"description": "Using Big Data and crowdscience to unlock the secrets of the human microbiome"
+		"description": "uBiome allows doctors, patients, and citizen scientists to learn about the human microbiome with unprecedented accuracy and speed.",
+		"rank": "#25",
+		"founders": ["Zachary Apte", "Jessica Richman"],
+		"jobCreated": "300",
+		"batch": "S2014"
 	},
 	"women": {
 		"name": "Women.com",
@@ -5427,7 +5523,11 @@
 		"name": "Algolia",
 		"url": "http://algolia.com/",
 		"class": "w2014",
-		"description": "With 50 data centers in 15 regions, Algolia offers a developer-friendly and enterprise-grade search API. Designed to make every search interaction meaningful and rewarding, Algolia serves billions of queries weekly for more than 5,000 customers."
+		"description": "Algolia is a powerful search-as-a-service solution, made easy to use with API clients, UI libraries, and pre-built integrations.",
+		"rank": "#35",
+		"founders": ["Nicolas Dessaigne", "Julien Lemoine"],
+		"jobCreated": "260",
+		"batch": "W2014"
 	},
 	"ambition": {
 		"name": "Ambition",
@@ -5451,7 +5551,11 @@
 		"name": "Axoni",
 		"url": "https://axoni.com/",
 		"class": "w2014",
-		"description": "Next generation blockchain and distributed ledger technology."
+		"description": "Axoni’s distributed ledger technology provides secure, multi-party data infrastructure with unparalleled performance.",
+		"rank": "#59",
+		"founders": ["Greg Schvey", "Jeff Schvey"],
+		"jobCreated": "55",
+		"batch": "W2014"
 	},
 	"bellabeat": {
 		"name": "Bellabeat",
@@ -5499,7 +5603,11 @@
 		"name": "Cruise",
 		"url": "http://getcruise.com/",
 		"class": "w2014",
-		"description": "Self-driving cars."
+		"description": "Cruise is building autonomous vehicles to safely connect people to the places, things, and experiences they care about. Acquired by GM in 2016. Valued at over $14B.",
+		"rank": "#03",
+		"founders": ["Kyle Vogt", "Daniel Kan"],
+		"jobCreated": "1000",
+		"batch": "W2014"
 	},
 	"edyn": {
 		"name": "Edyn",
@@ -5523,7 +5631,11 @@
 		"name": "Flexport",
 		"url": "https://flexport.com/",
 		"class": "w2014",
-		"description": "Flexport's mission is to make global trade easier for everybody. We are connecting humanity in a seamless web of global trade with our unique blend of software, human expertise, and physical infrastructure."
+		"description": "Flexport moves freight globally by air, ocean, rail, and truck for the world’s leading brands. Valued at over $1 Billion.",
+		"rank": "#19",
+		"founders": ["Ryan Petersen"],
+		"jobCreated": "600",
+		"batch": "W2014"
 	},
 	"framed": {
 		"name": "Framed Data",
@@ -5823,7 +5935,11 @@
 		"name": "CoreOS",
 		"url": "http://coreos.com/",
 		"class": "s2013",
-		"description": "Enterprise Linux distribution that dramatically improves security and speed of application deployment."
+		"description": "CoreOS develops open source tools that are the fundamental building blocks of modern distributed systems. Acquired by Red Hat in 2018.",
+		"rank": "#42",
+		"founders": ["Alex Polvi", "Brandon Philips"],
+		"jobCreated": "130",
+		"batch": "S2013"
 	},
 	"cratejoy": {
 		"name": "Cratejoy",
@@ -5841,13 +5957,21 @@
 		"name": "DoorDash",
 		"url": "http://doordash.com/",
 		"class": "s2013",
-		"description": "Restaurant delivery."
+		"description": "DoorDash connects customers with their favorite local and national businesses in more than 850 cities across the United States and Canada. They empower merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. Valued at over $4 Billion.",
+		"rank": "#08",
+		"founders": ["Tony Xu", "Stanley Tang", "Andy Fang"],
+		"jobCreated": "900",
+		"batch": "S2013"
 	},
 	"easypost": {
 		"name": "EasyPost",
 		"url": "http://easypost.com/",
 		"class": "s2013",
-		"description": "Shipping API"
+		"description": "EasyPost is the simple shipping API for the UPS API, USPS API, Fedex API, DHL API, and more.",
+		"rank": "#36",
+		"founders": ["Jarrett Streebin", "Sawyer Bateman"],
+		"jobCreated": "180",
+		"batch": "S2013"
 	},
 	"echolocker": {
 		"name": "Echo Locker",
@@ -5883,7 +6007,11 @@
 		"name": "Le Tote",
 		"url": "http://letote.com/",
 		"class": "s2013",
-		"description": "Subscription service for women's apparel & accessories."
+		"description": "Le Tote is a clothing rental subscription service featuring top brands.",
+		"rank": "#57",
+		"founders": ["Brett Northart", "Rakesh Tondon"],
+		"jobCreated": "300",
+		"batch": "S2013"
 	},
 	"lumoid": {
 		"name": "Lumoid",
@@ -5895,7 +6023,11 @@
 		"name": "Meta",
 		"url": "http://www.metavision.com/",
 		"class": "s2013",
-		"description": "Augmented reality glasses."
+		"description": "Meta bridges the gap between the virtual and the real with the world’s most immersive AR experience.",
+		"rank": "#38",
+		"founders": ["Meron Gribetz", "Ben Sand"],
+		"jobCreated": "100",
+		"batch": "S2013"
 	},
 	"onemonth": {
 		"name": "One Month",
@@ -5979,7 +6111,11 @@
 		"name": "BuildZoom",
 		"url": "https://www.buildzoom.com/",
 		"class": "w2013",
-		"description": "BuildZoom is a better way to remodel. We connect homeowners to the most reliable general contractors in their area and make remodeling simpler, cheaper and more predictable."
+		"description": "BuildZoom helps you find the perfect contractor for any job – commercial or residential.",
+		"rank": "#88",
+		"founders": ["Jiyan Wei", "David Petersen"],
+		"jobCreated": "100",
+		"batch": "W2013"
 	},
 	"restaurantcheetah": {
 		"name": "Cheetah",
@@ -6039,13 +6175,21 @@
 		"name": "Heap",
 		"url": "https://heapanalytics.com/",
 		"class": "w2013",
-		"description": "Heap automatically captures every user interaction in your mobile or web app, letting you generate analytics without writing code or waiting for data."
+		"description": "Heap lets you automatically capture every user interaction from web, mobile, and cloud services: clicks, submits, transactions, emails, and more.",
+		"rank": "#63",
+		"founders": ["Matin Movassate", "Ravi Parikh"],
+		"jobCreated": "100",
+		"batch": "W2013"
 	},
 	"influxdata": {
 		"name": "InfluxData",
 		"url": "https://influxdata.com/",
 		"class": "w2013",
-		"description": "InfluxData is building the platform for collecting, storing, visualizing, and processing time series data at scale."
+		"description": "InfluxData provides the leading time series platform to instrument, observe, learn and automate any system, application and business process across a variety of use cases.",
+		"rank": "#67",
+		"founders": ["Paul Dix", "Todd Persen"],
+		"jobCreated": "80",
+		"batch": "W2013"
 	},
 	"interana": {
 		"name": "Interana",
@@ -6105,7 +6249,7 @@
 		"name": "Screenhero",
 		"url": "http://screenhero.com/",
 		"class": "w2013",
-		"description": "Collaborative Screen Sharing \u2014\u00a0you each get your own mouse, and you're both always in control. Acquired by Slack (Jan '15)."
+		"description": "Collaborative Screen Sharing — you each get your own mouse, and you're both always in control. Acquired by Slack (Jan '15)."
 	},
 	"semantics3": {
 		"name": "Semantics3",
@@ -6123,7 +6267,11 @@
 		"name": "Strikingly",
 		"url": "https://www.strikingly.com/",
 		"class": "w2013",
-		"description": "The easiest way to create a beautiful, mobile optimized website."
+		"description": "Strikingly is a website builder that allows the user, with little or no development experience, to create mobile optimized websites within minutes.",
+		"rank": "#98",
+		"founders": ["Teng Bao", "Dafeng Guo", "David Haisha Chen"],
+		"jobCreated": "320",
+		"batch": "W2013"
 	},
 	"teespring": {
 		"name": "Teespring",
@@ -6135,7 +6283,11 @@
 		"name": "Thalmic",
 		"url": "http://thalmic.com/",
 		"class": "w2013",
-		"description": "Wearable computing hardware: biosignal gesture recognition"
+		"description": "Thalmic is developing the future of wearable technology and human-computer interaction (HCI).",
+		"rank": "#29",
+		"founders": ["Matthew Bailey", "Aaron Grant", "Stephen Lake"],
+		"jobCreated": "500",
+		"batch": "W2013"
 	},
 	"vaycayhero": {
 		"name": "VaycayHero",
@@ -6165,7 +6317,11 @@
 		"name": "Zenefits",
 		"url": "http://zenefits.com/",
 		"class": "w2013",
-		"description": "HR for small businesses: onboarding, payroll and benefits."
+		"description": "Zenefits provides HR solutions for the new world of work, powering people to make work move and business thrive. Valued at over $2 Billion",
+		"rank": "#09",
+		"founders": ["Laks Srini", "Parker Conrad"],
+		"jobCreated": "500",
+		"batch": "W2013"
 	},
 	"9gag": {
 		"name": "9gag",
@@ -6213,13 +6369,21 @@
 		"name": "Clever",
 		"url": "https://clever.com/",
 		"class": "s2012",
-		"description": "Developing applications for education is a data nightmare. Clever's APIs make building on top of student data easy for developers."
+		"description": "Clever wants to improve education through the use of technology.",
+		"rank": "#44",
+		"founders": ["Tyler Bosmeny", "Rafael Garcia", "Dan Carroll"],
+		"jobCreated": "130",
+		"batch": "S2012"
 	},
 	"coinbase": {
 		"name": "Coinbase",
 		"url": "https://www.coinbase.com/",
 		"class": "s2012",
-		"description": "Buy and sell digital currency \ud83d\ude80 \ud83c\udf11"
+		"description": "Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin. Valued at over $8 Billion.",
+		"rank": "#05",
+		"founders": ["Brian Armstrong", "Fred Ehrsam"],
+		"jobCreated": "500",
+		"batch": "S2012"
 	},
 	"crohnology": {
 		"name": "Crohnology",
@@ -6285,7 +6449,11 @@
 		"name": "Instacart",
 		"url": "https://www.instacart.com/",
 		"class": "s2012",
-		"description": "Groceries delivered fast."
+		"description": "Instacart is building the best way for people anywhere in the world to shop for groceries. Valued at over $7 Billion.",
+		"rank": "#06",
+		"founders": ["Apoorva Mehta", "Max Mullen", "Brandon Leonardo"],
+		"jobCreated": "600",
+		"batch": "S2012"
 	},
 	"kamcord": {
 		"name": "Kamcord",
@@ -6303,7 +6471,11 @@
 		"name": "Lever",
 		"url": "http://lever.co/",
 		"class": "s2012",
-		"description": "Lever is an Applicant Tracking System + Talent CRM. It effortlessly fits the hiring needs of companies today."
+		"description": "Lever streamlines the hiring process and simplifies the applicant tracking system, so that recruiters and hiring managers can focus on what truly matters: their candidates.",
+		"rank": "#54",
+		"founders": ["Nate Smith", "Sarah Nahm"],
+		"jobCreated": "140",
+		"batch": "S2012"
 	},
 	"mattermark": {
 		"name": "Mattermark",
@@ -6363,19 +6535,31 @@
 		"name": "Rainforest",
 		"url": "https://www.rainforestqa.com/",
 		"class": "s2012",
-		"description": "Dead simple testing.\n\nThe fastest, easiest way to test your website. Say no to manual QA!"
+		"description": "Rainforest is helping rethink QA and bring it into today’s era of continuous delivery.",
+		"rank": "#71",
+		"founders": ["Fred Stevens-Smith", "Russell Smith"],
+		"jobCreated": "129",
+		"batch": "S2012"
 	},
 	"smartasset": {
 		"name": "SmartAsset",
 		"url": "http://smartasset.com/",
 		"class": "s2012",
-		"description": "The easiest way to make and understand important personal finance decisions."
+		"description": "SmartAsset is a financial technology company aiming to provide the best personal finance advice on the web.",
+		"rank": "#72",
+		"founders": ["Michael Carvin", "Philip Camilleri"],
+		"jobCreated": "101",
+		"batch": "S2012"
 	},
 	"soylent": {
 		"name": "Soylent",
 		"url": "http://soylent.com/",
 		"class": "s2012",
-		"description": "Soylent is a simple, nutritious, and affordable food that possesses all the essential ingredients a body needs to be healthy."
+		"description": "Soylent is a complete meal that contains the vitamins and nutrients your body needs.",
+		"rank": "#32",
+		"founders": ["Rob Rhinehart", "Matt Cauble", "Hunter Scott", "John Coogan", "Kumar Thangudu"],
+		"jobCreated": "55",
+		"batch": "S2012"
 	},
 	"sparkboard": {
 		"name": "Sparkboard",
@@ -6423,7 +6607,11 @@
 		"name": "Thread",
 		"url": "http://thread.com/",
 		"class": "s2012",
-		"description": "Thread makes it incredibly easy to dress well. We do this by giving people their own personal stylist, for free. They help you save you time and find things that look amazing on you. Shopping will never be the same again."
+		"description": "Thread helps anyone dress well with the help of a personal stylist.",
+		"rank": "#94",
+		"founders": ["Kieran O’Neill", "Ben Phillips", "Ben Kucsan"],
+		"jobCreated": "30",
+		"batch": "S2012"
 	},
 	"vastrm": {
 		"name": "Vastrm",
@@ -6453,7 +6641,11 @@
 		"name": "Zapier",
 		"url": "http://zapier.com/",
 		"class": "s2012",
-		"description": "Zapier connects hundreds of SaaS apps with customizable workflows via an easy to use editor."
+		"description": "Zapier is a web automation app. With Zapier you can build Zaps which can automate parts of your business or life.",
+		"rank": "#27",
+		"founders": ["Mike Knoop", "Bryan Helmig", "Wade Foster"],
+		"jobCreated": "175",
+		"batch": "S2012"
 	},
 	"zentail": {
 		"name": "Zentail",
@@ -6483,7 +6675,11 @@
 		"name": "Amplitude",
 		"url": "https://amplitude.com/",
 		"class": "w2012",
-		"description": "Product Analytics"
+		"description": "Amplitude is comprehensive product analytics software for web and mobile.",
+		"rank": "#37",
+		"founders": ["Spenser Skates", "Curtis Liu"],
+		"jobCreated": "100",
+		"batch": "W2012"
 	},
 	"authy": {
 		"name": "Authy",
@@ -6525,7 +6721,11 @@
 		"name": "FarmLogs",
 		"url": "http://farmlogs.com/",
 		"class": "w2012",
-		"description": "Software that helps farmers monitor their operations and operate more profitable businesses. Also building a next-generation commodity hedging platform."
+		"description": "FarmLogs is farming software designed to help farmers execute their production and grain marketing decisions.",
+		"rank": "#81",
+		"founders": ["Brad Koch", "Jesse Vollmar"],
+		"jobCreated": "24",
+		"batch": "W2012"
 	},
 	"flutterapp": {
 		"name": "Flutter",
@@ -6543,7 +6743,11 @@
 		"name": "Gusto",
 		"url": "http://www.gusto.com/",
 		"class": "w2012",
-		"description": "Humans aren\u2019t resources. Gusto reimagines payroll, benefits, and HR by automating the most complicated, impersonal business tasks and making them simple and delightful. Get three months free @ https://gusto.com/friends/y-combinator"
+		"description": "Gusto automates and simplifies payroll, benefits, and HR, all while providing expert support. Valued at about $2 Billion.",
+		"rank": "#10",
+		"founders": ["Josh Reeves", "Tomer London", "Edward Kim"],
+		"jobCreated": "700",
+		"batch": "W2012"
 	},
 	"hackpad": {
 		"name": "HackPad",
@@ -6567,7 +6771,11 @@
 		"name": "LendUp",
 		"url": "http://lendup.com/",
 		"class": "w2012",
-		"description": "LendUp is a socially responsible company on a mission to redefine financial services for the emerging middle class. LendUp builds loans and credit cards paired with educational experiences to help people save money and improve their financial health."
+		"description": "LendUp provides anyone with a path to better financial health.",
+		"rank": "#23",
+		"founders": ["Jacob Rosenberg", "Sasha Orloff"],
+		"jobCreated": "190",
+		"batch": "W2012"
 	},
 	"loom": {
 		"name": "Loom",
@@ -6591,7 +6799,11 @@
 		"name": "MatterPort",
 		"url": "http://matterport.com/",
 		"class": "w2012",
-		"description": "Turn physical objects and environments into 3D models in seconds."
+		"description": "Matterport allows professionals to capture 3D walkthroughs, photography, floor plans, and VR of real-world places from one shoot.",
+		"rank": "#49",
+		"founders": ["David Gausebeck", "Matt Bell"],
+		"jobCreated": "187",
+		"batch": "W2012"
 	},
 	"medigram": {
 		"name": "Medigram",
@@ -6627,7 +6839,11 @@
 		"name": "PlanGrid",
 		"url": "http://plangrid.com/",
 		"class": "w2012",
-		"description": "We build mobile applications for the construction industry"
+		"description": "PlanGrid builds construction productivity software that allows contractors and owners in commercial, heavy civil, and other industries to work together throughout the project lifecycle.",
+		"rank": "#33",
+		"founders": ["Tracy Young", "Ralph Gootee", "Kenny Stone", "Antoine Hersen", "Ryan Sutton-Gee"],
+		"jobCreated": "400",
+		"batch": "W2012"
 	},
 	"priceonomics": {
 		"name": "Priceonomics",
@@ -6645,7 +6861,11 @@
 		"name": "Ridecell",
 		"url": "http://www.ridecell.com/",
 		"class": "w2012",
-		"description": "Ridecell is the leading SaaS operating system to launch, operate, and scale autonomous and new mobility services including carsharing, counterless rentals, ridesharing, and autonomous services."
+		"description": "The Ridecell platform provides the technology needed to run a standalone ridesharing or carsharing operation—or a hybrid service that combines both.",
+		"rank": "#48",
+		"founders": ["Aarjav Trivedi"],
+		"jobCreated": "120",
+		"batch": "W2012"
 	},
 	"screenleap": {
 		"name": "Screenleap",
@@ -6705,7 +6925,11 @@
 		"name": "The Muse",
 		"url": "http://themuse.com/",
 		"class": "w2012",
-		"description": "The Muse is the ultimate career destination offering exciting job opportunities, expert advice, and a peek behind the scenes into fantastic companies and career paths."
+		"description": "The Muse helps job seekers find the best companies.",
+		"rank": "#95",
+		"founders": ["Kathryn Minshew", "Alex Cavoulacos", "Melissa Quino McCreery"],
+		"jobCreated": "100",
+		"batch": "W2012"
 	},
 	"tilt": {
 		"name": "Tilt",
@@ -6729,13 +6953,21 @@
 		"name": "Automatic",
 		"url": "http://automatic.com/",
 		"class": "s2011",
-		"description": "Automatic connects your car to the rest of your digital life."
+		"description": "Automatic’s app and plug-in car adapter turns just about any car into a connected car. Acquired by SiriusXM in 2017.",
+		"rank": "#79",
+		"founders": ["Jerry J", "Thejo Kote"],
+		"jobCreated": "65",
+		"batch": "S2011"
 	},
 	"trycaviar": {
 		"name": "Caviar",
 		"url": "http://trycaviar.com/",
 		"class": "s2011",
-		"description": "Uber for food."
+		"description": "Caviar lets you get delivery or pickup from the best restaurants in your neighborhood. Acquired by Square in 2014.",
+		"rank": "#82",
+		"founders": ["Andy Zhang", "Tony Shi Li", "Jason Wang", "Richard Din"],
+		"jobCreated": "40",
+		"batch": "S2011"
 	},
 	"citusdata": {
 		"name": "Citus Data",
@@ -6759,7 +6991,11 @@
 		"name": "Codecademy",
 		"url": "http://codecademy.com/",
 		"class": "s2011",
-		"description": "Codecademy teaches the world the skills they need to get the jobs they want."
+		"description": "Codecademy is an online platform that offers free coding classes in 12 different programming languages.",
+		"rank": "#78",
+		"founders": ["Ryan Bubinski", "Zach Sims"],
+		"jobCreated": "80",
+		"batch": "S2011"
 	},
 	"mongohq": {
 		"name": "Compose",
@@ -6777,7 +7013,11 @@
 		"name": "Firebase",
 		"url": "http://firebase.com/",
 		"class": "s2011",
-		"description": "App success made simple. An app platform to develop high-quality apps, grow your user base, and earn more money. \n\nAcquired by Google."
+		"description": "Firebase is a mobile and web application development platform. Acquired by Google in 2014.",
+		"rank": "#91",
+		"founders": ["Andrew Lee", "James Tamplin"],
+		"jobCreated": "22",
+		"batch": "S2011"
 	},
 	"freshplum": {
 		"name": "Freshplum",
@@ -6789,7 +7029,11 @@
 		"name": "Genius",
 		"url": "http://genius.com/",
 		"class": "s2011",
-		"description": "Crowd-sourced explanations of song lyrics"
+		"description": "Genius brings music intelligence to the masses.",
+		"rank": "#92",
+		"founders": ["Ilan Zechory", "Mahbod Moghadam", "Tom Lehman"],
+		"jobCreated": "93",
+		"batch": "S2011"
 	},
 	"ansibletechnologies": {
 		"name": "GlassMap",
@@ -6801,13 +7045,21 @@
 		"name": "GoCardless",
 		"url": "http://gocardless.com/",
 		"class": "s2011",
-		"description": "Replace credit cards online."
+		"description": "GoCardless is reinventing recurring payments by building a global network on top of bank debit systems. NOTE: we accidentally ommitted GoCardless from the orginal list. Correctly ranked, they would be #71.",
+		"rank": "#101",
+		"founders": ["Hiroki Takeuchi", "Matt Robinson", "Tom Blomfield"],
+		"jobCreated": "250",
+		"batch": "S2011"
 	},
 	"hackerrank": {
 		"name": "HackerRank",
 		"url": "http://hackerrank.com/",
 		"class": "s2011",
-		"description": "Programmer IQ"
+		"description": "HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 1,000 companies around the world.",
+		"rank": "#83",
+		"founders": ["Vivek Ravisankar", "Harishankaran"],
+		"jobCreated": "210",
+		"batch": "S2011"
 	},
 	"hungrylabs": {
 		"name": "Hungry Labs",
@@ -6891,25 +7143,37 @@
 		"name": "Science Exchange",
 		"url": "http://scienceexchange.com/",
 		"class": "s2011",
-		"description": "Science Exchange's mission is to enable breakthrough scientific research. We connect researchers and service providers through our online marketplace and promote  scientific collaboration that will help improve the quality and efficiency of research."
+		"description": "Science Exchange is a marketplace for scientific research. They let scientists outsource their research and development to scientific institutions.",
+		"rank": "#93",
+		"founders": ["Elizabeth Iorns", "Dan Knox"],
+		"jobCreated": "80",
+		"batch": "S2011"
 	},
 	"segment": {
 		"name": "Segment",
 		"url": "http://segment.com/",
 		"class": "s2011",
-		"description": "Segment is the analytics infrastructure that helps collect and organize data so businesses make better decisions."
+		"description": "Segment provides the customer data infrastructure that businesses use to put their customers first. With Segment, companies can collect, unify, and connect their first-party data to over 200 marketing, analytics, and data warehousing tools. Over 19,000 companies across 71 countries use Segment to achieve a common understanding of their users and make customer-centric decisions.",
+		"rank": "#24",
+		"founders": ["Calvin French-Owen", "Peter Reinhardt", "Ilya Volodarsky", "Ian Storm Taylor"],
+		"jobCreated": "300",
+		"batch": "S2011"
 	},
 	"siftscience": {
 		"name": "Sift Science",
 		"url": "http://siftscience.com/",
 		"class": "s2011",
-		"description": "We help thousands of online businesses fight fraud (chargebacks, fake accounts, spam, account takeover, etc.) with real-time machine learning."
+		"description": "Sift Science is a fraud detection solution for online businesses.",
+		"rank": "#34",
+		"founders": ["Brandon Ballinger", "Jason Tan"],
+		"jobCreated": "180",
+		"batch": "S2011"
 	},
 	"streak": {
 		"name": "Streak",
 		"url": "http://streak.com/",
 		"class": "s2011",
-		"description": "Streak transforms Gmail into a customizable CRM and process management tool. Our products service thousands of businesses, we\u2019re growing fast, we\u2019re profitable and we\u2019re still a small team."
+		"description": "Streak transforms Gmail into a customizable CRM and process management tool. Our products service thousands of businesses, we’re growing fast, we’re profitable and we’re still a small team."
 	},
 	"tapengage": {
 		"name": "TapEngage",
@@ -6933,7 +7197,11 @@
 		"name": "Vidyard",
 		"url": "http://vidyard.com/",
 		"class": "s2011",
-		"description": "YouTube for business."
+		"description": "Vidyard is the video platform that helps businesses transform communications and drive more revenue through the strategic use of online video.",
+		"rank": "#43",
+		"founders": ["Devon Galloway", "Edward Wu", "Michael Litt"],
+		"jobCreated": "200",
+		"batch": "S2011"
 	},
 	"zeusliving": {
 		"name": "Zeus",
@@ -6993,7 +7261,11 @@
 		"name": "Fivestars",
 		"url": "http://fivestars.com/",
 		"class": "w2011",
-		"description": "Marketing automation for small businesses."
+		"description": "Fivestars has the largest rewards program for local business.",
+		"rank": "#50",
+		"founders": ["Matthew Doka", "Victor Ho"],
+		"jobCreated": "250",
+		"batch": "W2011"
 	},
 	"giftrocket": {
 		"name": "GiftRocket",
@@ -7011,7 +7283,11 @@
 		"name": "HelloSign",
 		"url": "https://www.hellosign.com/",
 		"class": "w2011",
-		"description": "The #1 eSignature Software for Small and Mid-Market Businesses."
+		"description": "HelloSign’s digital workflow platform – which includes eSignature, digital workflow, and electronic fax solutions — helps over 75,000 companies and millions of people do business faster.",
+		"rank": "#100",
+		"founders": ["Neal O’Mara", "Joseph Walla"],
+		"jobCreated": "100",
+		"batch": "W2011"
 	},
 	"moki": {
 		"name": "Hotspots",
@@ -7053,7 +7329,11 @@
 		"name": "MemSQL",
 		"url": "http://memsql.com/",
 		"class": "w2011",
-		"description": "ANSI SQL-compliant, distributed, in-memory database for real-time analytics"
+		"description": "MemSQL is a distributed, highly-scalable SQL database that can run anywhere.",
+		"rank": "#40",
+		"founders": ["Eric Frenkiel", "Nikita Shamgunov"],
+		"jobCreated": "78",
+		"batch": "W2011"
 	},
 	"minomonsters": {
 		"name": "Mino Games",
@@ -7119,7 +7399,11 @@
 		"name": "ZeroCater",
 		"url": "http://zerocater.com/",
 		"class": "w2011",
-		"description": "ZeroCater is the #1 way companies provide family-style meals for their employees."
+		"description": "ZeroCater delivers personalized local office catering and snacks services for your office.",
+		"rank": "#70",
+		"founders": ["Arram Sabeti"],
+		"jobCreated": "250",
+		"batch": "W2011"
 	},
 	"ancestry": {
 		"name": "1000Memories",
@@ -7155,7 +7439,11 @@
 		"name": "Docker",
 		"url": "http://docker.com/",
 		"class": "s2010",
-		"description": "App store for server configurations."
+		"description": "Docker is a modern platform for all applications, giving developers and IT the freedom to build, manage and secure business-critical applications without the fear of technology or infrastructure lock-in. Valued at over $1 Billion.",
+		"rank": "#13",
+		"founders": ["Solomon Hykes", "Sebastien Pahl"],
+		"jobCreated": "400",
+		"batch": "S2010"
 	},
 	"fanvibe": {
 		"name": "Fanvibe",
@@ -7173,7 +7461,11 @@
 		"name": "Future Advisor",
 		"url": "http://futureadvisor.com/",
 		"class": "s2010",
-		"description": "The online financial management service for everyone. FutureAdvisor advises and manages all of a customer's financial goals together to help everyone achieve a better financial future."
+		"description": "FutureAdvisor helps people reach their long-term financial goals by managing their savings and investments. Acquired by Blackrock in 2015.",
+		"rank": "#65",
+		"founders": ["Jon Xu", "Bo Lu"],
+		"jobCreated": "85",
+		"batch": "S2010"
 	},
 	"gazehawk": {
 		"name": "GazeHawk",
@@ -7203,7 +7495,11 @@
 		"name": "inDinero",
 		"url": "http://indinero.com/",
 		"class": "s2010",
-		"description": "Financial dashboard for businesses."
+		"description": "inDinero builds accounting software and data for small businesses.",
+		"rank": "#90",
+		"founders": ["Andy Su", "Jessica Mah"],
+		"jobCreated": "200",
+		"batch": "S2010"
 	},
 	"leftronic": {
 		"name": "Leftronic",
@@ -7221,7 +7517,11 @@
 		"name": "PagerDuty",
 		"url": "http://pagerduty.com/",
 		"class": "s2010",
-		"description": "Notify you about server troubles."
+		"description": "PagerDuty is the leading digital ops management platform for businesses. They empower DevOps, IT operations, support, security, and business leaders to turn any signal into insight and real-time action across any operational use case. Valued at over $1 Billion.",
+		"rank": "#12",
+		"founders": ["Baskar Puvanathasan", "Andrew Miklas", "Alex Solomon"],
+		"jobCreated": "450",
+		"batch": "S2010"
 	},
 	"presto": {
 		"name": "Presto (E la Carte)",
@@ -7341,7 +7641,11 @@
 		"name": "Optimizely",
 		"url": "http://optimizely.com/",
 		"class": "w2010",
-		"description": "A/B testing."
+		"description": "Optimizely is the leading experimentation platform, enabling businesses to deliver continuous experimentation and personalization across websites, mobile apps and connected devices.",
+		"rank": "#22",
+		"founders": ["Pete Koomen", "Dan Siroker"],
+		"jobCreated": "400",
+		"batch": "W2010"
 	},
 	"ownlocal": {
 		"name": "OwnLocal",
@@ -7407,7 +7711,11 @@
 		"name": "Mixpanel",
 		"url": "http://mixpanel.com/",
 		"class": "s2009",
-		"description": "Mixpanel is the most advanced analytics platform in the world for mobile & web."
+		"description": "Mixpanel is a user analytics platform that lets everyone in an organization deeply understand each of its users.",
+		"rank": "#20",
+		"founders": ["Suhail Doshi", "Tim Trefren"],
+		"jobCreated": "300",
+		"batch": "S2009"
 	},
 	"olark": {
 		"name": "Olark",
@@ -7425,8 +7733,11 @@
 		"name": "Stripe",
 		"url": "http://stripe.com/",
 		"class": "s2009",
-		"description": "Online payments.",
-		"rank": "#2"
+		"description": "Stripe builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use their software to accept payments and manage their businesses online. Valued at over $20 Billion.",
+		"rank": "#02",
+		"founders": ["John Collison", "Patrick Collison"],
+		"jobCreated": "1,300",
+		"batch": "S2010"
 	},
 	"wepay": {
 		"name": "WePay",
@@ -7438,8 +7749,11 @@
 		"name": "Airbnb",
 		"url": "http://airbnb.com/",
 		"class": "w2009",
-		"description": "Sharing economy.",
-		"rank": "#1"
+		"description": "Airbnb is a global travel community that offers end-to-end trips, including where you stay, what you do and the people you meet. Valued at over $30 Billion.",
+		"rank": "#01",
+		"founders": ["Brian Chesky", "Joe Gebbia", "Nathan Blecharczyk"],
+		"jobCreated": "4,000",
+		"batch": "W2009"
 	},
 	"cloudkick": {
 		"name": "Cloudkick",
@@ -7499,7 +7813,11 @@
 		"name": "Cloudant",
 		"url": "http://cloudant.com/",
 		"class": "s2008",
-		"description": "NoSQL Database-aaS.  Acquired by IBM in 2014.  Now IBM Cloud Data Services"
+		"description": "Cloudant is a distributed database that is optimized for handling heavy workloads that are typical of large, fast-growing web and mobile apps. Acquired by IBM in 2014.",
+		"rank": "#76",
+		"founders": ["Michael Miller", "Adam Kocoloski", "Alan Hoffman"],
+		"jobCreated": "66",
+		"batch": "S2008"
 	},
 	"justspotted": {
 		"name": "JustSpotted",
@@ -7547,7 +7865,11 @@
 		"name": "Heroku",
 		"url": "http://heroku.com/",
 		"class": "w2008",
-		"description": ""
+		"description": "Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps. Acquired by Salesforce in 2010.",
+		"rank": "#46",
+		"founders": ["Adam Wiggins", "James Lindenbaum", "Orion Henry"],
+		"jobCreated": "30",
+		"batch": "W2008"
 	},
 	"machinezone": {
 		"name": "Machine Zone",
@@ -7601,7 +7923,11 @@
 		"name": "Dropbox",
 		"url": "http://dropbox.com/",
 		"class": "s2007",
-		"description": "Backup and share files in the cloud."
+		"description": "Dropbox is a global collaboration platform where content is created, accessed, and shared. Market cap: over $10 Billion.",
+		"rank": "#04",
+		"founders": ["Arash Ferdowsi", "Drew Houston"],
+		"jobCreated": "1,858",
+		"batch": "S2007"
 	},
 	"songkick": {
 		"name": "Songkick",
@@ -7643,7 +7969,11 @@
 		"name": "Twitch",
 		"url": "http://twitch.com/",
 		"class": "w2007",
-		"description": "Video game live streaming"
+		"description": "Twitch is a live streaming video platform where millions of people and thousands of interests collide in an explosion of video games, pop culture, and conversation. Acquired by Amazon in 2014.",
+		"rank": "#18",
+		"founders": ["Emmett Shear", "Justin Kan", "Michael Seibel", "Kyle Vogt"],
+		"jobCreated": "1,500",
+		"batch": "W2007"
 	},
 	"virtualmin": {
 		"name": "Virtualmin",
@@ -7655,7 +7985,11 @@
 		"name": "Weebly",
 		"url": "http://weebly.com/",
 		"class": "w2007",
-		"description": "Web site editing platform.  Over 40M people have launched their business on Weebly and every month 325M people visit a Weebly-made site, or 50% of the US."
+		"description": "Weebly allows anyone to start and grow an online business with curated website templates, powerful ecommerce and integrated marketing. Acquired by Square in 2018.",
+		"rank": "#41",
+		"founders": ["David Rusenko", "Chris Fanini", "Dan Veltri"],
+		"jobCreated": "306",
+		"batch": "W2007"
 	},
 	"zenter": {
 		"name": "Zenter",
@@ -7673,7 +8007,11 @@
 		"name": "Scribd",
 		"url": "http://scribd.com/",
 		"class": "s2006",
-		"description": "World's largest online library."
+		"description": "Scribd is a digital library, e-book and audiobook subscription service.",
+		"rank": "#60",
+		"founders": ["Trip Adler", "Tikhon Bernstam", "Jared Friedman"],
+		"jobCreated": "200",
+		"batch": "S2006"
 	},
 	"xobni": {
 		"name": "Xobni",
@@ -7745,7 +8083,11 @@
 		"name": "Reddit",
 		"url": "http://reddit.com/",
 		"class": "s2005",
-		"description": "The frontpage of the internet"
+		"description": "Reddit is home to thousands of communities, endless conversation, and authentic human connection. Acquired by Conde Nast in 2006. Valued at over $1 Billion.",
+		"rank": "#11",
+		"founders": ["Steve Huffman", "Alexis Ohanian"],
+		"jobCreated": "400",
+		"batch": "S2005"
 	},
 	"textpayme": {
 		"name": "TextPayMe",
